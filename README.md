@@ -12,5 +12,4 @@ Códigos desenvolvidos durante o curso de Python Fundamentos para Análise de Da
    - Exercícios
    - Laboratório: Calculadora simples em python
 #### Capítulo 04 - Tratamento de Arquivos, Módulos, Pacotes e Funções Built-in
-   
-
+   - Exercícios
